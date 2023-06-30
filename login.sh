@@ -1,1 +1,4 @@
 reources 
+reources
+AWS
+AZURE
